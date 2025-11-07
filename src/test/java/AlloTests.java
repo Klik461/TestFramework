@@ -13,6 +13,7 @@ public class AlloTests {
 
 
         String expectedName = "Каталог";
+        String name = "Vanya";
 
     }
 
